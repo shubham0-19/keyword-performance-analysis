@@ -20,10 +20,7 @@ The goal is to identify:
 - High CPC keywords do not always have the highest search volume
 - Search volume shows fluctuation over time
 
-## Dashboard Preview
-![Dashboard Screenshot](./powerbi/dashboard_screenshot.png)
-
 ## Files Included
-- Dataset used for analysis
-- Power BI dashboard (.pbix)
-- EDA notebook
+- <a href="https://github.com/shubham0-19/keyword-performance-dashboard/blob/main/adwords%20dataset.xlsx">Dataset used for analysis</a>
+- <a href="https://github.com/shubham0-19/keyword-performance-dashboard/blob/main/Traffic%20adwords%20dashboard.pbix">Power BI dasboard</a>
+- <a href="https://github.com/shubham0-19/keyword-performance-dashboard/blob/main/Traffic%20adwords%20EDA.ipynb">EDA notebook</a>
